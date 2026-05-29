@@ -1,0 +1,8 @@
+interface:
+  display_name: "Scanned Book OCR Reader"
+  short_description: "OCR scanned book PDFs and create personalized reading reports."
+  brand_color: "#2563EB"
+  default_prompt: "Use $scanned-book-ocr-reader to OCR this scanned PDF and create a personalized reading report."
+
+policy:
+  allow_implicit_invocation: true
